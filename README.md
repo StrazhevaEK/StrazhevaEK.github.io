@@ -22,10 +22,10 @@
 
 ![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model3.png)
 
-![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model(2).png)
+![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model(1).png)
 
 Определение автоматизируемых видов деятельности
 
-![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model(1).png)
+![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model(2).png)
 
 
