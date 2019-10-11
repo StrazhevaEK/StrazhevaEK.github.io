@@ -16,7 +16,7 @@
 
 ![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model.png)
 
-## Лабораторная работа №1
+## Лабораторная работа №2
 
 Создание новой модели в РАМУС из шаблона "Plan-Do-Check"
 
@@ -26,6 +26,6 @@
 
 Определение автоматизируемых видов деятельности
 
-![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model(3).png)
+![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model3.png)
 
 
