@@ -28,7 +28,7 @@
 
 ![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model(2).png)
 
-## Лабораторная работа №1
+## Лабораторная работа №3
 
 Декомпозиция в DFD блока "Планирование сна"
 
