@@ -14,7 +14,7 @@
 
 Создание собственной учебной IDEF0-диаграммы "шесть ответов" из шаблона "шесть вопросов"
 
-![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model.png)
+![](https://github.com/StrazhevaEK/StrazhevaEK.github.io/blob/master/model3.png)
 
 ## Лабораторная работа №2
 
