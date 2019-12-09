@@ -1,0 +1,40 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Роли"
+
+class People as "Люди"
+class Machanisms as "Механизмы"
+
+class StaffSystem as "Персонал"
+class InformationSupportsSystem as "Средства\nинформационной\nподдержки"
+
+class HeadOfWarehouse as "Начальник\nсклада"
+class Storekeeper as "Кладовщик"
+class Forwarder as "Экспедитор"
+
+class InventoryControlSystem as "Подсистема\nскладского\nучета"
+class AccountingSystem as "Подсистема\nбухгалтерского\nучета"
+class PersonelTraningSystem as "Подсистема\nкадрового\nучета"
+
+Entity <|-- People 
+Entity <|-- Machanisms 
+
+People <|-- StaffSystem 
+Machanisms <|-- InformationSupportsSystem 
+
+StaffSystem  <|-- HeadOfWarehouse 
+StaffSystem  <|-- Storekeeper
+StaffSystem  <|-- Forwarder  
+
+InformationSupportsSystem <|-- InventoryControlSystem 
+InformationSupportsSystem <|-- AccountingSystem 
+InformationSupportsSystem <|-- PersonelTraningSystem
+
+hide members
+hide circle
+hide methods
+@enduml
