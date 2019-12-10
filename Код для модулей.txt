@@ -8,24 +8,24 @@ class Entity as "Модули"
 
 class Window as "Экранная форма"
 
-class Vigruz as "Форма \n выгрузки из \n материалов"
-class Ukladka  as "Форма \n укладки \n материалов \n на хранение"
-class Osmotr as "Форма \n осмотра \n материалов"
-class Dost as "Форма \n доставки \n материалов"
+class Vigruz as "Форма\nвыгрузки\nматериалов из\n автомобиля"
+class Ukladka  as "Форма\nукладки\nматериалов\nна поддон"
+class Osmotr as "Форма\nвизуального\nи количественного\nосмотра\nматериалов"
+class Dost as "Форма\nдоставки\nматериалов\nна участок\nприемки"
 
-class Sort as "Форма \n сортировки \n материалов"
-class Raspakovka as "Форма \n распаковки \n материалов"
-class GruzEd as "Форма \n формирования\n грузовых единиц"
-class Uklad as "Форма \n укладки  \n материалов \n  на поддон"
+class Sort as "Форма\nсортировки\nматериалов"
+class Raspakovka as "Форма\nраспаковки\nматериалов"
+class GruzEd as "Форма\nформирования\nгрузовых\nединиц"
+class Uklad as "Форма\nукладки\nматериалов\nна места\nхранения"
 
-class Otbor as "Форма \n отбора \n материалов"
-class Komplect as "Форма \n комплектования \n заказов"
-class Uk as "Форма \n укладки \n материалов"
+class Otbor as "Форма\nотбора\nматериалов"
+class Komplect as "Форма\nкомплектования\nзаказов"
+class Uk as "Форма\nукладки\nматериалов в\nконтейнеры\nи\или поддоны"
 
-class Soprov as "Форма \n сопровождения \n материалов"
-class Pog as "Форма \n погрузки \n материалов"
-class Proverka as "Форма \n проверки \n заказов"
-class Otpusk as "Форма \n отпуска \n машин"
+class Soprov as "Форма\nсопровождения\n аказов до\nзоны погрузки"
+class Pog as "Форма\nпогрузки\nзаказов в\nтранспортные\nсредства"
+class Proverka as "Форма \n контрольной\nпроверки\nзаказов"
+class Otpusk as "Форма \n отпуска машин \n с места погрузки "
 
 Entity <|-- Window 
 
